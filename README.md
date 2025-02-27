@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mfesra
+- 👋 Hi, I’m @esraeksik
 - 👀 I’m interested in machine learning, ai and python.
 - 🌱 I’m currently learning machine learning, sql.
 - 📫 How to reach me 
