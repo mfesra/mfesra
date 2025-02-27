@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @mfesra
-- 👀 I’m interested in c++, pyhton and games
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on making games with c++
+- 👀 I’m interested in machine learning, ai and python.
+- 🌱 I’m currently learning machine learning, sql.
 - 📫 How to reach me 
-     Twitter @schuldinersscat
-     Instagram @esrqksk
+     Linkedin -> Esra Eksik
 
 <!---
 mfesra/mfesra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
